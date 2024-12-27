@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 class FirstScreen extends StatelessWidget {
    FirstScreen({super.key});
-   final yoo=TextEditingController();
+
 
   @override
  
